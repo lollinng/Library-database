@@ -1,4 +1,0 @@
-sudo mysql -u user1 -p
-
-create database SE_ACTIVITY;
-use SE_ACTIVITY;
